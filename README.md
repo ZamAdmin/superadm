@@ -1,0 +1,2 @@
+# superadm
+ZamAdmin
